@@ -16,10 +16,3 @@ Bu profili; üniversite ödevlerimi, yaptığım pratikleri ve ilk projelerimi a
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
-###  GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihokumus690-pixel&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Fatih'in GitHub İstatistikleri" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihokumus690-pixel&layout=compact&theme=tokyonight&cache_seconds=86400" alt="En Çok Kullanılan Diller" />
-</div>
