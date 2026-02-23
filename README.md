@@ -19,7 +19,7 @@ Bu profili; üniversite ödevlerimi, yaptığım pratikleri ve ilk projelerimi a
 ###  GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihokumus690-pixel&show_icons=true&theme=tokyonight" alt="Fatih'in GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatihokumus690-pixel&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Fatih'in GitHub İstatistikleri" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihokumus690-pixel&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihokumus690-pixel&layout=compact&theme=tokyonight&cache_seconds=86400" alt="En Çok Kullanılan Diller" />
 </div>
